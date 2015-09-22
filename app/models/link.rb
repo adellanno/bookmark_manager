@@ -1,4 +1,4 @@
-require_relative '../../data_mapper_setup'
+require_relative '../data_mapper_setup'
 
 # This class corresponds to a table in the database
 # We can use it to manipulate the data
