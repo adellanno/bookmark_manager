@@ -13,3 +13,7 @@ class Link
   property :url,    String
 
 end
+
+DataMapper.finalize
+
+DataMapper.auto_upgrade!
