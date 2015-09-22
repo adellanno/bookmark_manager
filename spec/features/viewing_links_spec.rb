@@ -1,3 +1,5 @@
+require_relative '../../app/models/link'
+
 feature 'Viewing links' do
 
   scenario 'I can see existing links on the links page' do
